@@ -14,3 +14,12 @@
   display: flex;
   justify-content: space-between;
 }
+
+.HeaderLogo {
+  align-self: center;
+}
+
+.HeaderLogo__image {
+  width: auto;
+  height: 20px;
+}
