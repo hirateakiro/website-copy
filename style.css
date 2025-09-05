@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.Header {
+  height: 70px;
+  width: 100%;
+  background-color: #fff;
+  display: grid;
+  box-shadow: 0px 15px 20px 0px rgba(0, 0, 0, 0.05)
+}
