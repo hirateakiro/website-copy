@@ -106,3 +106,9 @@ a {
   bottom: 70px;
   right: 0;
 }
+
+.FirstView__bg-image--left-oval {
+  top: 84px;
+  left: -70px;
+}
+
