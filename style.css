@@ -118,3 +118,8 @@ a {
   padding-top: 219px;
   position: relative;
 }
+
+.FirstViewContent{
+  width: fit-content;
+  position: relative;
+}
