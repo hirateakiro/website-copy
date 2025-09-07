@@ -112,3 +112,9 @@ a {
   left: -70px;
 }
 
+.FirstView__container{
+  max-width: 1040px;
+  margin: 0px auto;
+  padding-top: 219px;
+  position: relative;
+}
