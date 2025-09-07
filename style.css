@@ -123,3 +123,11 @@ a {
   width: fit-content;
   position: relative;
 }
+
+.FirstViewContent__title{
+  font-size: 42px;
+  font-weight: 800;
+  font-family: "Lato", sans-serif;
+  color: #333;
+}
+
