@@ -96,3 +96,8 @@ a {
   top: -70px;
   right: 0;
 }
+
+.FirstView__bg-image--left-triangle {
+  top: -70px;
+  left: 0;
+}
