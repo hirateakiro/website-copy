@@ -85,3 +85,14 @@ a {
   position: relative;
   height: 739px;
 }
+
+.FirstView__bg-image {
+  position: absolute;
+  z-index: -1;
+}
+
+.FirstView__bg-image--main-visual {
+  width: 775px;
+  top: -70px;
+  right: 0;
+}
