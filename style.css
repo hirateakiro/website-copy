@@ -30,9 +30,13 @@ a {
   align-self: center;
 }
 
-.HeaderLogo__image {
+.HeaderLogo__image--pc {
   width: auto;
   height: 20px;
+}
+
+.HeaderLogo__image--sp {
+  display: none;
 }
 
 .HeaderNav{
@@ -168,5 +172,11 @@ a {
 
 /* レスポンシブデザイン スマートフォン*/
 @media screen and (max-width: 767px) {
+  .HeaderLogo__image--pc {
+    display: none !important;
+  }
 
+  .HeaderLogo__image--sp {
+    display: block !important;
+  }
 }
