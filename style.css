@@ -160,3 +160,8 @@ a {
 .FirstViewContent__caption {
   font-size: 12px;
 }
+
+/* レスポンシブデザイン タブレット*/
+@media screen and (max-width: 1080px) {
+
+}
