@@ -105,6 +105,10 @@ a {
   z-index: -1;
 }
 
+.FirstView__whole-image {
+  display: none;
+}
+
 .FirstView__bg-image--main-visual {
   width: 775px;
   top: -70px;
@@ -218,5 +222,15 @@ a {
 
   .HeaderLogo__image--sp {
     display: block !important;
+  }
+
+  .FirstView__bg-image {
+    display: none;
+  }
+
+  .FirstView__whole-image {
+    display: block;
+    width: 100%;
+    margin-bottom: 7px;
   }
 }
