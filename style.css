@@ -165,3 +165,8 @@ a {
 @media screen and (max-width: 1080px) {
 
 }
+
+/* レスポンシブデザイン スマートフォン*/
+@media screen and (max-width: 767px) {
+
+}
