@@ -237,4 +237,16 @@ a {
   .FirstView__container {
     padding-top: 0;
   }
+
+  .FirstViewContent__title {
+    font-size: 21px;
+    width: fit-content;
+    position: relative;
+  }
+
+  .FirstViewContent__badge-image {
+    width: 100px;
+    top: -20px;
+    right: -120px;
+  }
 }
