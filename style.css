@@ -250,3 +250,14 @@ a {
     right: -120px;
   }
 }
+
+/* パソコン画面のホバー時の挙動 */
+@media screen and (min-width: 768px) {
+  .FirstViewContent__button, .HeaderNavListItem__button {
+    transition: opacity 0.2s;
+  }
+
+  .FirstViewContent__button:hover, .HeaderNavListItem__button:hover {
+    opacity:  0.8;
+  }
+}
